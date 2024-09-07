@@ -2,7 +2,7 @@
 
 Please open the following link to view the webpages in codesandbox.io:
 
-https://codesandbox.io/p/github/MCooper1210/fcc-calorie-counter
+[https://codesandbox.io/p/github/MCooper1210/fcc-calorie-counter](https://codesandbox.io/p/sandbox/fcc-calorie-couunter-ldrch7)
 
 This repository contains the index.html, styles.css and script.js for the freeCodeCamp javascript course to build a calorie counter app. 
 
